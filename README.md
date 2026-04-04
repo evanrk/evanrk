@@ -64,7 +64,7 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 | [**Statistic Image Classifiers**](https://github.com/evanrk/statistic_image_classifiers) | Can you classify MNIST digits using just mean and standard deviation? Turns out, kind of. A fun experiment in how far basic statistics can take you. |
 | [**Equilibrium Propagation**](https://github.com/evanrk/Equilibrium-Propagation-Implementation) | Implementing a biologically-plausible neural network that learns differently from backprop — because the brain doesn't backpropagate gradients. |
 | [**Spotify Data Analysis**](https://github.com/evanrk/analize_spotify_data_in_2025) | Analyzing 10 years of my Spotify listening history combined with Last.fm data. What does a decade of music taste look like? |
-| [**Portfolio**](https://github.com/evanrk/portfolio) | My portfolio site, built as an interactive 3D Game Boy Color with navigation using arrow keys or clicking. Built with React + Three.js. |
+| **Portfolio** | My portfolio site, built as an interactive 3D Game Boy Color with navigation using arrow keys or clicking. Built with React + Three.js. |
 
 <br>
 
