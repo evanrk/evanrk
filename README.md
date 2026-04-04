@@ -6,7 +6,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 <br>
 
-## about me
+## About me
 
 - studying **mathematics**🤓 at Binghamton University
 - very excited about **machine learning research** like:
@@ -20,9 +20,9 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 <br>
 
-## tech stack
+## Tech stack
 
-**ml / data**
+**ML/Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -31,23 +31,24 @@ Currently looking for **ML internships** — I like figuring out how models actu
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
 
-**web / backend**
+**Web/Backend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-**ai**
+**AI (LLMS)**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-**tools**
+**Tools**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -56,7 +57,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 <br>
 
-## projects i'm proud of
+## Projects I'm proud of
 
 | | |
 |---|---|
@@ -64,11 +65,11 @@ Currently looking for **ML internships** — I like figuring out how models actu
 | [**Statistic Image Classifiers**](https://github.com/evanrk/statistic_image_classifiers) | Can you classify MNIST digits using just mean and standard deviation? Turns out, kind of. A fun experiment in how far basic statistics can take you. |
 | [**Equilibrium Propagation**](https://github.com/evanrk/Equilibrium-Propagation-Implementation) | Implementing a biologically-plausible neural network that learns differently from backprop — because the brain doesn't backpropagate gradients. |
 | [**Spotify Data Analysis**](https://github.com/evanrk/analize_spotify_data_in_2025) | Analyzing 10 years of my Spotify listening history combined with Last.fm data. What does a decade of music taste look like? |
-| [**Portfolio**](https://github.com/evanrk/portfolio) | My portfolio site, built as an interactive 3D Game Boy Color. Navigate with arrow keys. Built with React + Three.js. |
+| [**Portfolio**](https://github.com/evanrk/portfolio) | My portfolio site, built as an interactive 3D Game Boy Color with navigation using arrow keys or clicking. Built with React + Three.js. |
 
 <br>
 
-## github stats
+## Github stats
 
 <p>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanrk&theme=tokyonight" alt="Profile Details" />
