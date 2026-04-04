@@ -8,7 +8,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 ## About me
 
-- studying **mathematics**🤓 at Binghamton University
+- studying **mathematics** 🤓 at ![Binghamton University](https://www.binghamton.edu/)
 - very excited about **machine learning research** like:
   - alternative machine learning architectures
   - artificial general intelligence
