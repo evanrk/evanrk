@@ -84,38 +84,68 @@ def esc(text):
     return text.replace("|", "\\|")
 
 
-def build_section(tracks, artists, albums):
-    lines = ["<!-- SPOTIFY:START -->", "🎧 **My Spotify This Month**", ""]
+def build_table(header_cols, rows):
+    """Build a markdown table string."""
+    lines = []
+    lines.append("| " + " | ".join(header_cols) + " |")
+    lines.append("| " + " | ".join("---" for _ in header_cols) + " |")
+    for row in rows:
+        lines.append("| " + " | ".join(row) + " |")
+    return "\n".join(lines)
 
-    lines.append("**Top Tracks**")
-    lines.append("")
-    lines.append("| # | Track | Artist |")
-    lines.append("|---|---|---|")
+
+def build_section(tracks, artists, albums):
+    track_rows = []
     for i, track in enumerate(tracks, 1):
         name = esc(track["name"])
         artist = esc(track["artists"][0]["name"])
         url = track["external_urls"]["spotify"]
-        lines.append(f"| {i} | [{name}]({url}) | {artist} |")
+        track_rows.append([str(i), f"[{name}]({url})", artist])
+    tracks_table = build_table(["#", "Track", "Artist"], track_rows)
 
-    lines.append("")
-    lines.append("**Top Artists**")
-    lines.append("")
-    lines.append("| # | Artist |")
-    lines.append("|---|---|")
+    artist_rows = []
     for i, artist in enumerate(artists, 1):
         name = esc(artist["name"])
         url = artist["external_urls"]["spotify"]
-        lines.append(f"| {i} | [{name}]({url}) |")
+        artist_rows.append([str(i), f"[{name}]({url})"])
+    artists_table = build_table(["#", "Artist"], artist_rows)
 
-    lines.append("")
-    lines.append("**Top Albums**")
-    lines.append("")
-    lines.append("| # | Album | Artist |")
-    lines.append("|---|---|---|")
+    album_rows = []
     for i, album in enumerate(albums, 1):
-        lines.append(f"| {i} | [{esc(album['name'])}]({album['url']}) | {esc(album['artist'])} |")
+        album_rows.append([str(i), f"[{esc(album['name'])}]({album['url']})", esc(album["artist"])])
+    albums_table = build_table(["#", "Album", "Artist"], album_rows)
 
-    lines.append("<!-- SPOTIFY:END -->")
+    lines = [
+        "<!-- SPOTIFY:START -->",
+        "🎧 **My Spotify This Month**",
+        "",
+        "<table>",
+        "  <tr>",
+        '    <td valign="top">',
+        "",
+        "**Top Tracks**",
+        "",
+        tracks_table,
+        "",
+        "   </td>",
+        '    <td valign="top">',
+        "",
+        "**Top Artists**",
+        "",
+        artists_table,
+        "",
+        "   </td>",
+        '    <td valign="top">',
+        "",
+        "**Top Albums**",
+        "",
+        albums_table,
+        "",
+        "   </td>",
+        "  </tr>",
+        "</table>",
+        "<!-- SPOTIFY:END -->",
+    ]
     return "\n".join(lines)
 
 
