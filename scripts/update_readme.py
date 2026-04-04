@@ -79,6 +79,11 @@ def get_top_albums(token):
     return [album_info[aid] for aid in top_ids]
 
 
+def esc(text):
+    """Escape pipe characters that break markdown tables."""
+    return text.replace("|", "\\|")
+
+
 def build_section(tracks, artists, albums):
     lines = ["<!-- SPOTIFY:START -->", "🎧 **My Spotify This Month**", ""]
 
@@ -87,8 +92,8 @@ def build_section(tracks, artists, albums):
     lines.append("| # | Track | Artist |")
     lines.append("|---|---|---|")
     for i, track in enumerate(tracks, 1):
-        name = track["name"]
-        artist = track["artists"][0]["name"]
+        name = esc(track["name"])
+        artist = esc(track["artists"][0]["name"])
         url = track["external_urls"]["spotify"]
         lines.append(f"| {i} | [{name}]({url}) | {artist} |")
 
@@ -98,7 +103,7 @@ def build_section(tracks, artists, albums):
     lines.append("| # | Artist |")
     lines.append("|---|---|")
     for i, artist in enumerate(artists, 1):
-        name = artist["name"]
+        name = esc(artist["name"])
         url = artist["external_urls"]["spotify"]
         lines.append(f"| {i} | [{name}]({url}) |")
 
@@ -108,7 +113,7 @@ def build_section(tracks, artists, albums):
     lines.append("| # | Album | Artist |")
     lines.append("|---|---|---|")
     for i, album in enumerate(albums, 1):
-        lines.append(f"| {i} | [{album['name']}]({album['url']}) | {album['artist']} |")
+        lines.append(f"| {i} | [{esc(album['name'])}]({album['url']}) | {esc(album['artist'])} |")
 
     lines.append("<!-- SPOTIFY:END -->")
     return "\n".join(lines)
