@@ -68,20 +68,15 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 <br>
 
-## Github stats & Spotify
+## Github stats
 
-<table>
-  <tr>
-    <td valign="top">
-      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanrk&theme=tokyonight" alt="Profile Details" /><br>
-      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evanrk&theme=tokyonight" alt="GitHub Stats" />
-      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evanrk&theme=tokyonight" alt="Top Languages" />
-    </td>
-    <td valign="top">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=linkedworld&count=8&width=400" alt="Spotify Recently Played" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanrk&theme=tokyonight" alt="Profile Details" />
+</p>
+<p>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evanrk&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evanrk&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <br>
 
