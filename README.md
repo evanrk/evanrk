@@ -80,6 +80,16 @@ Currently looking for **ML internships** — I like figuring out how models actu
     <td valign="top">
 
 <!-- SPOTIFY:START -->
+🎧 **Recently Played** *(updated 2026-04-04 19:35 UTC)*
+
+| Track | Artist |
+|---|---|
+| [Nice to Know You](https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn) | PinkPantheress |
+| [BREAKUP](https://open.spotify.com/track/1z5IgJwq78uRL7l9AZ0qpN) | Tiffany Day |
+| [DOIT4ME](https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N) | Tiffany Day |
+| [HELLA BOY CRAZY](https://open.spotify.com/track/5BRb90NCuRNTJ1XC0pHUmz) | Tiffany Day |
+| [WHAT A JOKE](https://open.spotify.com/track/4TpEbAZgeHhGkZ3dmHEzcZ) | Tiffany Day |
+| [WHAT AM I RUNNING FROM](https://open.spotify.com/track/3j7utSEmQKvPsGarUSMnwz) | Tiffany Day |
 <!-- SPOTIFY:END -->
 
    </td>
