@@ -80,16 +80,37 @@ Currently looking for **ML internships** — I like figuring out how models actu
     <td valign="top">
 
 <!-- SPOTIFY:START -->
-🎧 **Recently Played** *(updated 2026-04-04 19:38 UTC)*
+🎧 **My Spotify This Month**
 
-| Track | Artist |
+**Top Tracks**
+
+| # | Track | Artist |
+|---|---|---|
+| 1 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | Young Miko |
+| 2 | [untitled 06 | 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | Kendrick Lamar |
+| 3 | [Eva](https://open.spotify.com/track/5Wn54pnxc4P9Pc37ti0dct) | yeule |
+| 4 | [MIAMI (feat. Kyle Richh)](https://open.spotify.com/track/0RxdMriXtjSM1fYHRaNa5O) | Nemzzz |
+| 5 | [The Party](https://open.spotify.com/track/04kM4AVI99HhAoEsQ52Gfd) | Portraits Of Tracy |
+
+**Top Artists**
+
+| # | Artist |
 |---|---|
-| [Nice to Know You](https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn) | PinkPantheress |
-| [BREAKUP](https://open.spotify.com/track/1z5IgJwq78uRL7l9AZ0qpN) | Tiffany Day |
-| [DOIT4ME](https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N) | Tiffany Day |
-| [HELLA BOY CRAZY](https://open.spotify.com/track/5BRb90NCuRNTJ1XC0pHUmz) | Tiffany Day |
-| [WHAT A JOKE](https://open.spotify.com/track/4TpEbAZgeHhGkZ3dmHEzcZ) | Tiffany Day |
-| [WHAT AM I RUNNING FROM](https://open.spotify.com/track/3j7utSEmQKvPsGarUSMnwz) | Tiffany Day |
+| 1 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
+| 2 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 3 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 4 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| 5 | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) |
+
+**Top Albums**
+
+| # | Album | Artist |
+|---|---|---|
+| 1 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
+| 2 | [Echoes Of Silence (Original)](https://open.spotify.com/album/04hy4jb1GDD00otiwzsFUB) | The Weeknd |
+| 3 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
+| 4 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
+| 5 | [House Of Balloons (Original)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | The Weeknd |
 <!-- SPOTIFY:END -->
 
    </td>
