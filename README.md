@@ -2,7 +2,7 @@
 
 **Math student at Binghamton University** who writes more Python than proofs. Exploring machine learning, computer graphics, and building things that probably don't exist yet.
 
-Currently looking for **ML internships** — I like figuring out how models actually work under the hood, not just calling `.fit()`.
+Currently looking for **ML internships**. I like figuring out the math and architecture behind how models actually work, not just calling `.fit()` haha.
 
 <br>
 
