@@ -1,6 +1,6 @@
 # Hi! I'm Evan
 
-**CS student in NYC** exploring machine learning, computer graphics, and building things that probably don't exist yet.
+**Math student at Binghamton University** who writes more Python than proofs. Exploring machine learning, computer graphics, and building things that probably don't exist yet.
 
 Currently looking for **ML internships** — I like figuring out how models actually work under the hood, not just calling `.fit()`.
 
@@ -8,8 +8,9 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 ## about me
 
-- studying computer science in New York City
+- studying **mathematics** at Binghamton University
 - most excited about **machine learning** and **neural network research**
+- built a [full-stack AI academic advisor](https://github.com/evanrk/ava) deployed to university advisors (49k+ LOC)
 - also into 3D graphics, programming language design, and data analysis
 - I once built a [programming language](https://github.com/evanrk/pupa) and a [3D engine](https://github.com/evanrk/3D_engine_revisited) just because I wanted to
 
@@ -26,17 +27,21 @@ Currently looking for **ML internships** — I like figuring out how models actu
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**web**
+**web / backend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**other**
+**ai / tools**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 
 <br>
 
@@ -44,6 +49,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 | | |
 |---|---|
+| [**AVA — AI Academic Advisor**](https://github.com/evanrk/ava) | Full-stack agentic platform deployed to Binghamton advisors. RAG with FAISS, auto-generated degree audits, 3-tier memory system. Python, LangChain, LangGraph, FastAPI, React. |
 | [**Statistic Image Classifiers**](https://github.com/evanrk/statistic_image_classifiers) | Can you classify MNIST digits using just mean and standard deviation? Turns out, kind of. A fun experiment in how far basic statistics can take you. |
 | [**Equilibrium Propagation**](https://github.com/evanrk/Equilibrium-Propagation-Implementation) | Implementing a biologically-plausible neural network that learns differently from backprop — because the brain doesn't backpropagate gradients. |
 | [**Spotify Data Analysis**](https://github.com/evanrk/analize_spotify_data_in_2025) | Analyzing 10 years of my Spotify listening history combined with Last.fm data. What does a decade of music taste look like? |
