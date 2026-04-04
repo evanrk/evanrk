@@ -130,7 +130,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 <br>
 
-## let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanrklein/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://evanrklein.com)

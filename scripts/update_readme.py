@@ -117,7 +117,7 @@ def build_section(tracks, artists, albums):
 
     lines = [
         "<!-- SPOTIFY:START -->",
-        "🎧 **My Spotify This Month**",
+        "## My Spotify This Month",
         "",
         "<table>",
         "  <tr>",
