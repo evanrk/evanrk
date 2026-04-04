@@ -80,7 +80,7 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 
 <br>
 
-## My Spotify This Month
+## My Top Spotify This Month
 
 <!-- SPOTIFY:START -->
 <table>
