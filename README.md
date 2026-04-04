@@ -8,11 +8,15 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 ## about me
 
-- studying **mathematics** at Binghamton University
-- most excited about **machine learning** and **neural network research**
-- built a full-stack AI academic advisor deployed to university advisors (49k+ LOC)
-- also into 3D graphics, programming language design, and data analysis
-- I once built a [programming language](https://github.com/evanrk/pupa) and a [3D engine](https://github.com/evanrk/3D_engine_revisited) just because I wanted to
+- studying **mathematics**🤓 at Binghamton University
+- very excited about **machine learning research** like:
+  - alternative machine learning architectures
+  - artificial general intelligence
+  - reinforcement learning
+  - and much more!
+- currently building a full-stack AI academic advisor deployed to university advisors (49k+ LOC and counting)
+- also into many other things, like 3D graphics, programming language design, data analysis, full-stack development, etc.
+- I once built a (partially complete) [programming language](https://github.com/evanrk/pupa) and a [3D engine](https://github.com/evanrk/3D_engine_revisited) for a cube from scratch for fun :)
 
 <br>
 
