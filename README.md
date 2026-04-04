@@ -1,4 +1,4 @@
-# hey, i'm evan
+# Hi! I'm Evan
 
 **CS student in NYC** exploring machine learning, computer graphics, and building things that probably don't exist yet.
 
