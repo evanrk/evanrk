@@ -32,6 +32,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
 
 **Web/Backend**
+<br>
   Web:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
