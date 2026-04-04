@@ -1,8 +1,8 @@
-name: Update Spotify Recently Played
+name: Update Spotify Top Played
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 0 * * 1" # every Monday at midnight UTC
   workflow_dispatch: # manual trigger
 
 jobs:
@@ -22,10 +22,11 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          SPOTIFY_BLOCKED_ARTISTS: ${{ secrets.SPOTIFY_BLOCKED_ARTISTS }}
         run: python scripts/update_readme.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "Update Spotify recently played" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "Update Spotify top played" && git push)

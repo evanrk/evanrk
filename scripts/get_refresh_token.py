@@ -17,7 +17,7 @@ import urllib.parse
 client_id = input("Enter your Spotify Client ID: ").strip()
 client_secret = input("Enter your Spotify Client Secret: ").strip()
 
-scope = "user-read-recently-played"
+scope = "user-top-read"
 redirect_uri = "http://127.0.0.1:3000/callback"
 
 auth_url = (
