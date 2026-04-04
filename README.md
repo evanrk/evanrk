@@ -10,7 +10,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 - studying **mathematics** at Binghamton University
 - most excited about **machine learning** and **neural network research**
-- built a [full-stack AI academic advisor](https://github.com/evanrk/ava) deployed to university advisors (49k+ LOC)
+- built a full-stack AI academic advisor deployed to university advisors (49k+ LOC)
 - also into 3D graphics, programming language design, and data analysis
 - I once built a [programming language](https://github.com/evanrk/pupa) and a [3D engine](https://github.com/evanrk/3D_engine_revisited) just because I wanted to
 
@@ -49,7 +49,7 @@ Currently looking for **ML internships** — I like figuring out how models actu
 
 | | |
 |---|---|
-| [**AVA — AI Academic Advisor**](https://github.com/evanrk/ava) | Full-stack agentic platform deployed to Binghamton advisors. RAG with FAISS, auto-generated degree audits, 3-tier memory system. Python, LangChain, LangGraph, FastAPI, React. |
+| **AVA — AI Academic Advisor** | Full-stack agentic platform deployed to Binghamton advisors. RAG with FAISS, auto-generated degree audits, 3-tier memory system. Python, LangChain, LangGraph, FastAPI, React. |
 | [**Statistic Image Classifiers**](https://github.com/evanrk/statistic_image_classifiers) | Can you classify MNIST digits using just mean and standard deviation? Turns out, kind of. A fun experiment in how far basic statistics can take you. |
 | [**Equilibrium Propagation**](https://github.com/evanrk/Equilibrium-Propagation-Implementation) | Implementing a biologically-plausible neural network that learns differently from backprop — because the brain doesn't backpropagate gradients. |
 | [**Spotify Data Analysis**](https://github.com/evanrk/analize_spotify_data_in_2025) | Analyzing 10 years of my Spotify listening history combined with Last.fm data. What does a decade of music taste look like? |
