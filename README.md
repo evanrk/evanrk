@@ -16,7 +16,7 @@ Currently looking for **ML internships**. I like figuring out the math and archi
   - and much more!
 - currently building a full-stack AI academic advisor deployed to university advisors (49k+ LOC and counting)
 - also into many other things, like 3D graphics, programming language design, data analysis, full-stack development, etc.
-- I once built a (partially complete) [programming language](https://github.com/evanrk/pupa) and a [3D engine](https://github.com/evanrk/3D_engine_revisited) for a cube from scratch for fun :)
+- I once built a [3D engine](https://github.com/evanrk/3D_engine_revisited) for a cube from scratch for fun :)
 
 <br>
 
