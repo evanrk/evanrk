@@ -93,8 +93,8 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 | 1 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | Young Miko |
 | 2 | [untitled 06 \| 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | Kendrick Lamar |
 | 3 | [Eva](https://open.spotify.com/track/5Wn54pnxc4P9Pc37ti0dct) | yeule |
-| 4 | [MIAMI (feat. Kyle Richh)](https://open.spotify.com/track/0RxdMriXtjSM1fYHRaNa5O) | Nemzzz |
-| 5 | [The Party](https://open.spotify.com/track/04kM4AVI99HhAoEsQ52Gfd) | Portraits Of Tracy |
+| 4 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | Ninajirachi |
+| 5 | [MIAMI (feat. Kyle Richh)](https://open.spotify.com/track/0RxdMriXtjSM1fYHRaNa5O) | Nemzzz |
 
    </td>
     <td valign="top">
@@ -104,9 +104,9 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 | # | Artist |
 | --- | --- |
 | 1 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
-| 2 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 3 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
-| 4 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| 2 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 3 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 4 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
 | 5 | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) |
 
    </td>
@@ -120,7 +120,7 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 | 2 | [Echoes Of Silence (Original)](https://open.spotify.com/album/04hy4jb1GDD00otiwzsFUB) | The Weeknd |
 | 3 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
 | 4 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
-| 5 | [House Of Balloons (Original)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | The Weeknd |
+| 5 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
 
    </td>
   </tr>
