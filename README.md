@@ -90,11 +90,11 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | Young Miko |
-| 2 | [untitled 06 \| 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | Kendrick Lamar |
-| 3 | [Eva](https://open.spotify.com/track/5Wn54pnxc4P9Pc37ti0dct) | yeule |
-| 4 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | Ninajirachi |
-| 5 | [MIAMI (feat. Kyle Richh)](https://open.spotify.com/track/0RxdMriXtjSM1fYHRaNa5O) | Nemzzz |
+| 1 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | Ninajirachi |
+| 2 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | Young Miko |
+| 3 | [untitled 06 \| 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | Kendrick Lamar |
+| 4 | [Eva](https://open.spotify.com/track/5Wn54pnxc4P9Pc37ti0dct) | yeule |
+| 5 | [The Party](https://open.spotify.com/track/04kM4AVI99HhAoEsQ52Gfd) | Portraits Of Tracy |
 
    </td>
     <td valign="top">
@@ -104,10 +104,10 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 | # | Artist |
 | --- | --- |
 | 1 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
-| 2 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
-| 3 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 4 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
-| 5 | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) |
+| 2 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 3 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
+| 4 | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) |
+| 5 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
 
    </td>
     <td valign="top">
@@ -117,10 +117,10 @@ Currently looking for **ML internships**. I like figuring out the math and archi
 | # | Album | Artist |
 | --- | --- | --- |
 | 1 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
-| 2 | [Echoes Of Silence (Original)](https://open.spotify.com/album/04hy4jb1GDD00otiwzsFUB) | The Weeknd |
-| 3 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
-| 4 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
-| 5 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
+| 2 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
+| 3 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
+| 4 | [Echoes Of Silence (Original)](https://open.spotify.com/album/04hy4jb1GDD00otiwzsFUB) | The Weeknd |
+| 5 | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | Balu Brigada |
 
    </td>
   </tr>
