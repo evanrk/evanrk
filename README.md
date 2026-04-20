@@ -2,7 +2,7 @@
 
 **Math student at Binghamton University**. I'm exploring machine learning, computer graphics, and building things that probably don't exist yet.
 
-Currently looking for **ML internships**. I like figuring out the math and architecture behind how models actually work, not just calling `.fit()` haha.
+Currently looking for **ML opportunities/internships**. I like figuring out the math and architecture behind how models actually work, not just calling `.fit()` haha.
 
 <br>
 
