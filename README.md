@@ -90,11 +90,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [The Party](https://open.spotify.com/track/04kM4AVI99HhAoEsQ52Gfd) | Portraits Of Tracy |
-| 2 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | Ninajirachi |
-| 3 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | Young Miko |
-| 4 | [MIAMI (feat. Kyle Richh)](https://open.spotify.com/track/0RxdMriXtjSM1fYHRaNa5O) | Nemzzz |
-| 5 | [DON'T KILL THE PARTY (feat. Quavo & Juicy J)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | Ty Dolla $ign |
+| 1 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | Ninajirachi |
+| 2 | [Talk](https://open.spotify.com/track/5LObf6Nh0vN2skSnFSDsIZ) | Cafuné |
+| 3 | [The Party](https://open.spotify.com/track/04kM4AVI99HhAoEsQ52Gfd) | Portraits Of Tracy |
+| 4 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | Cafuné |
+| 5 | [Song 2 - 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | Blur |
 
    </td>
     <td valign="top">
@@ -103,11 +103,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Artist |
 | --- | --- |
-| 1 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 2 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
-| 3 | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) |
-| 4 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
-| 5 | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) |
+| 1 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
+| 2 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 3 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
+| 4 | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) |
+| 5 | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) |
 
    </td>
     <td valign="top">
@@ -116,10 +116,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Album | Artist |
 | --- | --- | --- |
-| 1 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
-| 2 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
-| 3 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
-| 4 | [House Of Balloons (Original)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | The Weeknd |
+| 1 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
+| 2 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
+| 3 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
+| 4 | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | Cafuné |
 | 5 | [Drive Home: Parting Gifts](https://open.spotify.com/album/2iCeb2ZA12OScogQ3GN3xy) | Portraits Of Tracy |
 
    </td>
