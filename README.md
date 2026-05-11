@@ -90,11 +90,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [Talk](https://open.spotify.com/track/5LObf6Nh0vN2skSnFSDsIZ) | Cafuné |
-| 2 | [Song 2 - 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | Blur |
+| 1 | [Song 2 - 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | Blur |
+| 2 | [Talk](https://open.spotify.com/track/5LObf6Nh0vN2skSnFSDsIZ) | Cafuné |
 | 3 | [Girls, Girls, Girls](https://open.spotify.com/track/0vzb8Ii9B2fP9c0POFGPOZ) | JAŸ-Z |
-| 4 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | Cafuné |
-| 5 | [Eva](https://open.spotify.com/track/5Wn54pnxc4P9Pc37ti0dct) | yeule |
+| 4 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
+| 5 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | Tiffany Day |
 
    </td>
     <td valign="top">
@@ -104,9 +104,9 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Artist |
 | --- | --- |
 | 1 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
-| 2 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
-| 3 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
-| 4 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| 2 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 3 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
+| 4 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
 | 5 | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) |
 
    </td>
@@ -117,10 +117,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Album | Artist |
 | --- | --- | --- |
 | 1 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
-| 2 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
-| 3 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
-| 4 | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | Cafuné |
-| 5 | [House Of Balloons (Original)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | The Weeknd |
+| 2 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
+| 3 | [Brooklyn](https://open.spotify.com/album/0ezQjiwiFywadGofmAonbk) | Aligns |
+| 4 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
+| 5 | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | Cafuné |
 
    </td>
   </tr>
