@@ -94,7 +94,7 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 2 | [Talk](https://open.spotify.com/track/5LObf6Nh0vN2skSnFSDsIZ) | Cafuné |
 | 3 | [Girls, Girls, Girls](https://open.spotify.com/track/0vzb8Ii9B2fP9c0POFGPOZ) | JAŸ-Z |
 | 4 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
-| 5 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | Tiffany Day |
+| 5 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | Tyler, The Creator |
 
    </td>
     <td valign="top">
@@ -103,11 +103,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Artist |
 | --- | --- |
-| 1 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
-| 2 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 3 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
-| 4 | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) |
-| 5 | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) |
+| 1 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
+| 2 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 3 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 4 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
+| 5 | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
 
    </td>
     <td valign="top">
@@ -116,11 +116,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Album | Artist |
 | --- | --- | --- |
-| 1 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
-| 2 | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | Ninajirachi |
-| 3 | [Brooklyn](https://open.spotify.com/album/0ezQjiwiFywadGofmAonbk) | Aligns |
-| 4 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
-| 5 | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | Cafuné |
+| 1 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
+| 2 | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | Tyler, The Creator |
+| 3 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
+| 4 | [Brooklyn](https://open.spotify.com/album/0ezQjiwiFywadGofmAonbk) | Aligns |
+| 5 | [Love in the Air](https://open.spotify.com/album/5NCpmb7wX6GAPxZynbM0zh) | Aligns |
 
    </td>
   </tr>
