@@ -90,11 +90,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [Song 2 - 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | Blur |
-| 2 | [Talk](https://open.spotify.com/track/5LObf6Nh0vN2skSnFSDsIZ) | Cafuné |
-| 3 | [Girls, Girls, Girls](https://open.spotify.com/track/0vzb8Ii9B2fP9c0POFGPOZ) | JAŸ-Z |
-| 4 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
-| 5 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | Tyler, The Creator |
+| 1 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | PinkPantheress |
+| 2 | [Girls, Girls, Girls](https://open.spotify.com/track/0vzb8Ii9B2fP9c0POFGPOZ) | JAŸ-Z |
+| 3 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
+| 4 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | Tyler, The Creator |
+| 5 | [Song 2 - 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | Blur |
 
    </td>
     <td valign="top">
@@ -103,11 +103,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Artist |
 | --- | --- |
-| 1 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
-| 2 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
-| 3 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 4 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
-| 5 | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
+| 1 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| 2 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
+| 3 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
+| 4 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 5 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 
    </td>
     <td valign="top">
@@ -116,11 +116,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Album | Artist |
 | --- | --- | --- |
-| 1 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
+| 1 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
 | 2 | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | Tyler, The Creator |
-| 3 | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | Tiffany Day |
-| 4 | [Brooklyn](https://open.spotify.com/album/0ezQjiwiFywadGofmAonbk) | Aligns |
-| 5 | [Love in the Air](https://open.spotify.com/album/5NCpmb7wX6GAPxZynbM0zh) | Aligns |
+| 3 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
+| 4 | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | Nas |
+| 5 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
 
    </td>
   </tr>
