@@ -91,10 +91,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Track | Artist |
 | --- | --- | --- |
 | 1 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | PinkPantheress |
-| 2 | [Girls, Girls, Girls](https://open.spotify.com/track/0vzb8Ii9B2fP9c0POFGPOZ) | JAŸ-Z |
-| 3 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
-| 4 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | Tyler, The Creator |
-| 5 | [Song 2 - 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | Blur |
+| 2 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | Doja Cat |
+| 3 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | Tyler, The Creator |
+| 4 | [Noises](https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA) | PinkPantheress |
+| 5 | [Often](https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg) | The Weeknd |
 
    </td>
     <td valign="top">
@@ -106,8 +106,8 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 1 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | 2 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
 | 3 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
-| 4 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
-| 5 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 4 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 5 | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) |
 
    </td>
     <td valign="top">
@@ -119,7 +119,7 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 1 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
 | 2 | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | Tyler, The Creator |
 | 3 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
-| 4 | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | Nas |
+| 4 | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | The Weeknd |
 | 5 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
 
    </td>
