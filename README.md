@@ -90,11 +90,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | PinkPantheress |
-| 2 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | Doja Cat |
+| 1 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | Doja Cat |
+| 2 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | PinkPantheress |
 | 3 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | Tyler, The Creator |
-| 4 | [Noises](https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA) | PinkPantheress |
-| 5 | [Often](https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg) | The Weeknd |
+| 4 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | Bad Bunny |
+| 5 | [Noises](https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA) | PinkPantheress |
 
    </td>
     <td valign="top">
@@ -106,8 +106,8 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 1 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | 2 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
 | 3 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
-| 4 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| 5 | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) |
+| 4 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
+| 5 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
 
    </td>
     <td valign="top">
@@ -117,10 +117,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Album | Artist |
 | --- | --- | --- |
 | 1 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
-| 2 | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | Tyler, The Creator |
-| 3 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
-| 4 | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | The Weeknd |
-| 5 | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | Frank Ocean |
+| 2 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
+| 3 | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | Tyler, The Creator |
+| 4 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
+| 5 | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | Nas |
 
    </td>
   </tr>
