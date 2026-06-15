@@ -92,9 +92,9 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | --- | --- | --- |
 | 1 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | Doja Cat |
 | 2 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | PinkPantheress |
-| 3 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | Tyler, The Creator |
-| 4 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | Bad Bunny |
-| 5 | [Noises](https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA) | PinkPantheress |
+| 3 | [National Treasures](https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D) | Drake |
+| 4 | [Noises](https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA) | PinkPantheress |
+| 5 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | Bad Bunny |
 
    </td>
     <td valign="top">
@@ -104,10 +104,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Artist |
 | --- | --- |
 | 1 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
-| 2 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
-| 3 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
+| 2 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
+| 3 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
 | 4 | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) |
-| 5 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
+| 5 | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 
    </td>
     <td valign="top">
@@ -118,9 +118,9 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | --- | --- | --- |
 | 1 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
 | 2 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
-| 3 | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | Tyler, The Creator |
-| 4 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
-| 5 | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | Nas |
+| 3 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
+| 4 | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | Nas |
+| 5 | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | Michael Jackson |
 
    </td>
   </tr>
