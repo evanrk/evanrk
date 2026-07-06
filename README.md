@@ -90,11 +90,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
-| 2 | [1997](https://open.spotify.com/track/1Qkjv8kHlYsPrjDiilSmKx) | Key Glock |
-| 3 | [Dough](https://open.spotify.com/track/2rw5cbtHTyzy8iruujD28d) | Key Glock |
-| 4 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | Bad Bunny |
-| 5 | [National Treasures](https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D) | Drake |
+| 1 | [What You Need](https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog) | The Weeknd |
+| 2 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
+| 3 | [Tiramisu](https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw) | Don Toliver |
+| 4 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | Don Toliver |
+| 5 | [1997](https://open.spotify.com/track/1Qkjv8kHlYsPrjDiilSmKx) | Key Glock |
 
    </td>
     <td valign="top">
@@ -103,11 +103,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Artist |
 | --- | --- |
-| 1 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
-| 2 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
-| 3 | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
-| 4 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
-| 5 | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) |
+| 1 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 2 | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) |
+| 3 | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) |
+| 4 | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) |
+| 5 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
 
    </td>
     <td valign="top">
@@ -117,10 +117,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Album | Artist |
 | --- | --- | --- |
 | 1 | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | Key Glock |
-| 2 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
-| 3 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
-| 4 | [Love in the Air](https://open.spotify.com/album/5NCpmb7wX6GAPxZynbM0zh) | Aligns |
-| 5 | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | Michael Jackson |
+| 2 | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | Balu Brigada |
+| 3 | [Love in the Air](https://open.spotify.com/album/5NCpmb7wX6GAPxZynbM0zh) | Aligns |
+| 4 | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | Don Toliver |
+| 5 | [Signal](https://open.spotify.com/album/0i3Umxi7TXLd6c1U1oeESu) | Aligns |
 
    </td>
   </tr>
