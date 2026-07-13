@@ -94,7 +94,7 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 2 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
 | 3 | [Tiramisu](https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw) | Don Toliver |
 | 4 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | Don Toliver |
-| 5 | [1997](https://open.spotify.com/track/1Qkjv8kHlYsPrjDiilSmKx) | Key Glock |
+| 5 | [Distant Lover](https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN) | Marvin Gaye |
 
    </td>
     <td valign="top">
@@ -105,9 +105,9 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | --- | --- |
 | 1 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
 | 2 | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) |
-| 3 | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) |
-| 4 | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) |
-| 5 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
+| 3 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
+| 4 | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) |
+| 5 | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) |
 
    </td>
     <td valign="top">
@@ -116,11 +116,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Album | Artist |
 | --- | --- | --- |
-| 1 | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | Key Glock |
+| 1 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
 | 2 | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | Balu Brigada |
-| 3 | [Love in the Air](https://open.spotify.com/album/5NCpmb7wX6GAPxZynbM0zh) | Aligns |
-| 4 | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | Don Toliver |
-| 5 | [Signal](https://open.spotify.com/album/0i3Umxi7TXLd6c1U1oeESu) | Aligns |
+| 3 | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | Marvin Gaye |
+| 4 | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | Key Glock |
+| 5 | [Love in the Air](https://open.spotify.com/album/5NCpmb7wX6GAPxZynbM0zh) | Aligns |
 
    </td>
   </tr>
