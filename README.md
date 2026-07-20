@@ -92,8 +92,8 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | --- | --- | --- |
 | 1 | [What You Need](https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog) | The Weeknd |
 | 2 | [Pop Song](https://open.spotify.com/track/2e4FXLi3olJbqekfGSUOyV) | Aligns |
-| 3 | [Tiramisu](https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw) | Don Toliver |
-| 4 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | Don Toliver |
+| 3 | [Romeo](https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK) | PinkPantheress |
+| 4 | [Tiramisu](https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw) | Don Toliver |
 | 5 | [Distant Lover](https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN) | Marvin Gaye |
 
    </td>
@@ -103,11 +103,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Artist |
 | --- | --- |
-| 1 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 1 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
 | 2 | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) |
-| 3 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
-| 4 | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) |
-| 5 | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) |
+| 3 | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) |
+| 4 | [Aligns](https://open.spotify.com/artist/0ZZBzndaYgoAtcc9T73xqc) |
+| 5 | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) |
 
    </td>
     <td valign="top">
@@ -118,9 +118,9 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | --- | --- | --- |
 | 1 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
 | 2 | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | Balu Brigada |
-| 3 | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | Marvin Gaye |
-| 4 | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | Key Glock |
-| 5 | [Love in the Air](https://open.spotify.com/album/5NCpmb7wX6GAPxZynbM0zh) | Aligns |
+| 3 | [Rodven Clasico: Eddie Santiago: Atrevido Y Diferente](https://open.spotify.com/album/0YCfHwFgIZ9n5pzFZiHmsi) | Eddie Santiago |
+| 4 | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | Don Toliver |
+| 5 | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | yeule |
 
    </td>
   </tr>
