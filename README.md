@@ -90,11 +90,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [Romeo](https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK) | PinkPantheress |
-| 2 | [Distant Lover](https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN) | Marvin Gaye |
-| 3 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | PinkPantheress |
-| 4 | [B's On The Table (feat. 21 Savage)](https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr) | Drake |
-| 5 | [Noises](https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA) | PinkPantheress |
+| 1 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | KAROL G |
+| 2 | [De Profesión...Tu Amante](https://open.spotify.com/track/7aMPDXIz7Cq0jVEVgtiA5f) | Eddie Santiago |
+| 3 | [Quiero Amarte En La Hierba](https://open.spotify.com/track/28VATDIm6KrVNWqdotmVOE) | Eddie Santiago |
+| 4 | [Romeo](https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK) | PinkPantheress |
+| 5 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | KAROL G |
 
    </td>
     <td valign="top">
@@ -104,10 +104,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Artist |
 | --- | --- |
 | 1 | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
-| 2 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
-| 3 | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) |
-| 4 | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
-| 5 | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) |
+| 2 | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) |
+| 3 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
+| 4 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
+| 5 | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
 
    </td>
     <td valign="top">
@@ -119,7 +119,7 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 1 | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | KAROL G |
 | 2 | [Rodven Clasico: Eddie Santiago: Atrevido Y Diferente](https://open.spotify.com/album/0YCfHwFgIZ9n5pzFZiHmsi) | Eddie Santiago |
 | 3 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
-| 4 | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | Marvin Gaye |
+| 4 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
 | 5 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
 
    </td>
