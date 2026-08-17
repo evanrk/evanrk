@@ -91,10 +91,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Track | Artist |
 | --- | --- | --- |
 | 1 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | KAROL G |
-| 2 | [De Profesión...Tu Amante](https://open.spotify.com/track/7aMPDXIz7Cq0jVEVgtiA5f) | Eddie Santiago |
-| 3 | [Quiero Amarte En La Hierba](https://open.spotify.com/track/28VATDIm6KrVNWqdotmVOE) | Eddie Santiago |
-| 4 | [Romeo](https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK) | PinkPantheress |
-| 5 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | KAROL G |
+| 2 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | KAROL G |
+| 3 | [LATINA FOREVA](https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA) | KAROL G |
+| 4 | [Blow My High (Members Only)](https://open.spotify.com/track/1FRF0NHXBW4ecdulGkTzJY) | Kendrick Lamar |
+| 5 | [De Profesión...Tu Amante](https://open.spotify.com/track/7aMPDXIz7Cq0jVEVgtiA5f) | Eddie Santiago |
 
    </td>
     <td valign="top">
@@ -104,10 +104,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Artist |
 | --- | --- |
 | 1 | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
-| 2 | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) |
-| 3 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
-| 4 | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
-| 5 | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
+| 2 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
+| 3 | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) |
+| 4 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| 5 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 
    </td>
     <td valign="top">
@@ -117,10 +117,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Album | Artist |
 | --- | --- | --- |
 | 1 | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | KAROL G |
-| 2 | [Rodven Clasico: Eddie Santiago: Atrevido Y Diferente](https://open.spotify.com/album/0YCfHwFgIZ9n5pzFZiHmsi) | Eddie Santiago |
-| 3 | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | PinkPantheress |
-| 4 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
-| 5 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
+| 2 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
+| 3 | [Rodven Clasico: Eddie Santiago: Atrevido Y Diferente](https://open.spotify.com/album/0YCfHwFgIZ9n5pzFZiHmsi) | Eddie Santiago |
+| 4 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
+| 5 | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | KAROL G |
 
    </td>
   </tr>
