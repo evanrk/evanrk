@@ -91,10 +91,10 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | # | Track | Artist |
 | --- | --- | --- |
 | 1 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | KAROL G |
-| 2 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | KAROL G |
-| 3 | [LATINA FOREVA](https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA) | KAROL G |
-| 4 | [Blow My High (Members Only)](https://open.spotify.com/track/1FRF0NHXBW4ecdulGkTzJY) | Kendrick Lamar |
-| 5 | [De Profesión...Tu Amante](https://open.spotify.com/track/7aMPDXIz7Cq0jVEVgtiA5f) | Eddie Santiago |
+| 2 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | Bad Bunny |
+| 3 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | KAROL G |
+| 4 | [LATINA FOREVA](https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA) | KAROL G |
+| 5 | [Dile Luna](https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo) | KAROL G |
 
    </td>
     <td valign="top">
@@ -105,9 +105,9 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | --- | --- |
 | 1 | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
 | 2 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
-| 3 | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) |
-| 4 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
-| 5 | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| 3 | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) |
+| 4 | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) |
+| 5 | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) |
 
    </td>
     <td valign="top">
@@ -119,7 +119,7 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 1 | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | KAROL G |
 | 2 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
 | 3 | [Rodven Clasico: Eddie Santiago: Atrevido Y Diferente](https://open.spotify.com/album/0YCfHwFgIZ9n5pzFZiHmsi) | Eddie Santiago |
-| 4 | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | Kendrick Lamar |
+| 4 | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | Bad Bunny |
 | 5 | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | KAROL G |
 
    </td>
