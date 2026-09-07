@@ -92,9 +92,9 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | --- | --- | --- |
 | 1 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | Bad Bunny |
 | 2 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | Bad Bunny |
-| 3 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | KAROL G |
-| 4 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | KAROL G |
-| 5 | [De Profesión...Tu Amante](https://open.spotify.com/track/7aMPDXIz7Cq0jVEVgtiA5f) | Eddie Santiago |
+| 3 | [PASIEMPRE](https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd) | Tainy |
+| 4 | [thought i was playing](https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ) | Gunna |
+| 5 | [Me Fallaste](https://open.spotify.com/track/0T5C8oe4xdHVqryxil2eEG) | Eddie Santiago |
 
    </td>
     <td valign="top">
@@ -106,7 +106,7 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 1 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
 | 2 | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
 | 3 | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) |
-| 4 | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) |
+| 4 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
 | 5 | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) |
 
    </td>
@@ -116,11 +116,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Album | Artist |
 | --- | --- | --- |
-| 1 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
+| 1 | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | Bad Bunny |
 | 2 | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | KAROL G |
-| 3 | [Rodven Clasico: Eddie Santiago: Atrevido Y Diferente](https://open.spotify.com/album/0YCfHwFgIZ9n5pzFZiHmsi) | Eddie Santiago |
-| 4 | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | Bad Bunny |
-| 5 | [MAÑANA SERÁ BONITO (BICHOTA SEASON)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | KAROL G |
+| 3 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
+| 4 | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | Drake |
+| 5 | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | Tainy |
 
    </td>
   </tr>
