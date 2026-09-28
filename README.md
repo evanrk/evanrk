@@ -90,11 +90,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Track | Artist |
 | --- | --- | --- |
-| 1 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | Bad Bunny |
-| 2 | [2+1](https://open.spotify.com/track/0uB9gsssuj6l3XLi25ADYl) | Judeline |
-| 3 | [PASIEMPRE](https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd) | Tainy |
-| 4 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | Bad Bunny |
-| 5 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | KAROL G |
+| 1 | [2+1](https://open.spotify.com/track/0uB9gsssuj6l3XLi25ADYl) | Judeline |
+| 2 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | KAROL G |
+| 3 | [One More Chance / Stay with Me - Remix; 2007 Remaster](https://open.spotify.com/track/2DnXXNkr3YQICQqdg9NH9F) | The Notorious B.I.G. |
+| 4 | [Racks 2 Skinny](https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO) | Migos |
+| 5 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | Bad Bunny |
 
    </td>
     <td valign="top">
@@ -106,8 +106,8 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 | 1 | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
 | 2 | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) |
 | 3 | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
-| 4 | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) |
-| 5 | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| 4 | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) |
+| 5 | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) |
 
    </td>
     <td valign="top">
@@ -116,11 +116,11 @@ Currently looking for **ML opportunities/internships**. I like figuring out the 
 
 | # | Album | Artist |
 | --- | --- | --- |
-| 1 | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | KAROL G |
-| 2 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
-| 3 | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | Drake |
-| 4 | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | Tainy |
-| 5 | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | Bad Bunny |
+| 1 | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | J Balvin |
+| 2 | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | KAROL G |
+| 3 | [The Rebirth of Marvin](https://open.spotify.com/album/2caOGztQeNWV2fJyOiNV8w) | October London |
+| 4 | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | Bad Bunny |
+| 5 | [Ready to Die (The Remaster)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | The Notorious B.I.G. |
 
    </td>
   </tr>
